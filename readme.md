@@ -1,4 +1,4 @@
-##### Hey peeps! I'm 
+###### Hey peeps! I'm 
 ### PRAVEEN!
 I have a full name, _N Praveen Chandhar_, but you can call me Praveen, or **PC** in short.
 Let me tell about meself a bit here:- 
@@ -14,10 +14,5 @@ Markdown is by far the best word styler I have seen so far, it saves a lot of ti
 Looking for forward a wonderful learning experience in the spider inductions process.
 
 As Jaime Lannister once said (*in Season 03*):-
-	> The Battle has just begun!
+	 The Battle has just begun!
 
-
-	[Game of thrones](www.google.com/got) 
-	is a fantasy drama TV series based on medieval age war and tactics, only that dead play a major role in this xD
-
-	![spider it is!](https://imgur.com/gallery/goZyx)
