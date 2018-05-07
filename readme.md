@@ -14,9 +14,10 @@ Markdown is by far the best word styler I have seen so far, it saves a lot of ti
 Looking for forward a wonderful learning experience in the spider inductions process.
 
 As Jaime Lannister once said (*in Season 03*):-
-	>The Battle has just begun!
+	> The Battle has just begun!
 
 
-	[Game of thrones](https://en.wikipedia.org/wiki/Game_of_Thrones) is a fantasy drama TV series based on medieval age war and tactics, only that dead play a major role in this xD
+	[Game of thrones](www.google.com/got) 
+	is a fantasy drama TV series based on medieval age war and tactics, only that dead play a major role in this xD
 
 	![spider it is!](https://imgur.com/gallery/goZyx)
