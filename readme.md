@@ -1,4 +1,5 @@
-#####Hey peeps! I'm ###PRAVEEN!
+##### Hey peeps! I'm 
+### PRAVEEN!
 I have a full name, _N Praveen Chandhar_, but you can call me Praveen, or **PC** in short.
 Let me tell about meself a bit here:- 
 * I like playing the keys, the strings, listening to music. I have spent a part of my lifetime there. 
